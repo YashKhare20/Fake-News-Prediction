@@ -3,7 +3,7 @@ Fake News Prediction using LSTM variants with proposed web-extension
 
 #### -- Project Status: Completed
 
-## Project Intro/Objective
+## Project Intro & Objective
 Fake News is any news that is either factually wrong, misrepresents the facts, and that spreads virally (or maybe to a targeted audience).It can be spread both through regular news mediums or on social media platforms like Facebook, Twitter, Youtube etc. Social media deeply influences our global perception and the understanding of events. Thus, detecting fake news is important in recent times because this spread can be 6x faster than genuine news.
 
 The purpose of this project is to develop a web extension that can detect whether the news is fake or real using the machine learning model.
@@ -11,7 +11,6 @@ The purpose of this project is to develop a web extension that can detect whethe
 ### Methods Used
 * Machine Learning
 * NLP
-* Web-Extension
 
 ### Technologies
 * Python
@@ -22,7 +21,7 @@ The purpose of this project is to develop a web extension that can detect whethe
 * GPT-2 by OpenAI
 
 ## Project Workflow
-<img src="./flow_diagram.png" width="600" height="500">
+<img src="./flow_diagram.png" width="800" height="500">
 
 ## Featured Notebooks/Research Papers
 * [Notebook](./BI-DIRECTIONAL-LSTM_ATTENTION.ipynb)
