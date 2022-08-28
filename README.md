@@ -9,10 +9,9 @@ Fake News is any news that is either factually wrong, misrepresents the facts, a
 The purpose of this project is to develop a web extension that can detect whether the news is fake or real using the machine learning model.
 
 ### Methods Used
-* Inferential Statistics
 * Machine Learning
-* Data Visualization
-* Predictive Modeling
+* NLP
+* Web-Extension
 
 ### Technologies
 * Python
@@ -23,7 +22,7 @@ The purpose of this project is to develop a web extension that can detect whethe
 * GPT-2 by OpenAI
 
 ## Project Workflow
-<img src="./flow_diagram.png" width="400" height="400">
+<img src="./flow_diagram.png" width="600" height="500">
 
 ## Featured Notebooks/Research Papers
 * [Notebook](./BI-DIRECTIONAL-LSTM_ATTENTION.ipynb)
